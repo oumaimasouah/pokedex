@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Pokédex</string>
+  <string name="weight">Peso</string>
+  <string name="height">Altezza</string>
+  <string name="base_stats">Statistiche base</string>
+  <string name="hp">PS</string>
+  <string name="atk">ATT</string>
+  <string name="def">DIF</string>
+  <string name="spd">VEL</string>
+  <string name="exp">ESP</string>
+</resources>
